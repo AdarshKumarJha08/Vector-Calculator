@@ -153,7 +153,6 @@ The purpose of this project is to apply Python programming concepts to a practic
 **Adarsh Jha**
 
 B.Tech CSE (AI/ML)
-VIT Bhopal University
 
 ## 📄 License
 
