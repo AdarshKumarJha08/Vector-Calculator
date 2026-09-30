@@ -1,0 +1,55 @@
+# PROJECT STATEMENT
+
+## Project Title
+
+**Vector Mathematics Calculator**
+
+## Problem Statement
+
+Vector calculations are commonly required in mathematics, physics, engineering, computer science, and other technical fields. Performing multiple vector operations manually can be time-consuming and may lead to calculation errors.
+
+The aim of this project is to develop a **menu-driven Python application** that allows users to perform common mathematical operations on 2D and 3D vectors through a simple and user-friendly command-line interface.
+
+The application will provide operations such as vector magnitude, unit vector, addition, subtraction, scalar multiplication, dot product, cross product, projection, and angle between vectors. It will also validate user inputs and maintain a history of previously performed calculations.
+
+## Objectives
+
+The main objectives of the project are:
+
+1. To develop a Python-based vector calculation application.
+2. To perform common mathematical operations on 2D and 3D vectors.
+3. To apply Object-Oriented Programming concepts using Python classes and objects.
+4. To divide the application into multiple modules for better organization and maintainability.
+5. To implement input validation and exception handling.
+6. To store and display previous calculation results using file handling.
+7. To provide a simple menu-driven interface for users.
+
+## Scope
+
+The project focuses on mathematical operations involving 2D and 3D vectors. It is intended as an educational application for students and users who need to perform basic vector calculations.
+
+The current version supports:
+
+* 2D vectors
+* 3D vectors
+* Basic vector arithmetic
+* Dot and cross products
+* Vector projection
+* Unit vectors
+* Angles between vectors
+* Calculation history
+
+## Expected Outcome
+
+The completed application will provide accurate vector calculations through a simple command-line interface while demonstrating practical applications of Python programming concepts such as Object-Oriented Programming, modular programming, exception handling, and file handling.
+
+## Technologies Used
+
+* **Programming Language:** Python
+* **Programming Concepts:** OOP, Functions, Modules, Exception Handling
+* **File Handling:** Text file storage
+* **Interface:** Command-Line Interface (CLI)
+
+## Conclusion
+
+The Vector Mathematics Calculator demonstrates how Python can be used to develop a practical mathematical application. The project combines mathematical concepts with fundamental programming techniques to create a modular, organized, and user-friendly calculator for vector operations.
